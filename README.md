@@ -6,4 +6,8 @@ This repository contains all the (publicly available) code and assets for that d
 
 All content in this repo is owned and copyrighted by [Google LLC](https://google.com) and/or [Bandai Namco Entertainment Inc. (BNEI)](https://www.bandainamcoent.com/) (the creators of the game). Please respect their ownership.
 
-The game can be played here: https://blog.pother.ca/Google-Doodle-Champion-Island/
+The game can be played here: https://blog.pother.ca/Google-Doodle-PAC-MAN-Halloween-2025-Edition/
+
+ - - -
+
+This Repository is dedicated to DamageInc86. You asked for it!
